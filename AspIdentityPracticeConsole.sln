@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.26127.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspIdentityPracticeConsole", "AspIdentityPracticeConsole\AspIdentityPracticeConsole.csproj", "{C2B5948E-CCD9-4BFC-9340-635A6267EA21}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30C8ACB9-7EA0-4138-B71D-495933D0288C}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
